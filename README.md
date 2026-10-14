@@ -1,16 +1,38 @@
-## Hi there 👋
+### Hi, I'm Reut 👋
 
-<!--
-**princesaR/princesaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer** on a DevOps Platform team, building the shared infrastructure that 10+ R&D teams ship on.
+I started as a Backend Engineer (Java / Python microservices on Kafka), so I build platforms with the developer's side in mind.
+3+ years in IDF Unit 8200.
 
-Here are some ideas to get you started:
+- ☸️ **Kubernetes platform engineering**: building a custom **Flink Kubernetes Operator** that standardizes stream processing across teams
+- 🔁 **CI/CD and GitOps**: reusable shared libraries and Helm templates; cut deployment cycles by **90%** with automated GitOps
+- 🚚 **Migrations**: legacy services onto production Kubernetes with single-click environments; Jenkins pipelines into GitLab CI
+- 🧪 **Load testing**: frameworks that validate cluster scaling and resilience under high traffic
+- 📈 **Observability**: end-to-end monitoring and logging with Prometheus, Grafana and ELK
+- 🔐 **Security-minded by default**: least privilege, no static secrets, scanned and pinned dependencies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack
+
+**Platform:** Kubernetes · OpenShift · Helm · Docker · Argo CD · Linux
+**CI/CD:** GitLab CI · Jenkins · GitHub Actions
+**IaC & cloud:** Terraform · Ansible · AWS
+**Data & messaging:** Apache Flink · Kafka · Elasticsearch · PostgreSQL · MongoDB
+**Observability:** Prometheus · Grafana · ELK
+**Code:** Python · Java · Bash
+
+---
+
+### 📌 Featured projects
+
+| Project | What it is |
+|---|---|
+| [**load-test**](https://github.com/princesaR/load-test) | A pluggable Python framework for load testing HTTP, Kafka, RabbitMQ and gRPC. Runs locally, in Docker, or as Kubernetes Jobs, and is driven by an API. |
+| **rf-alert-manager** *(coming soon)* | Event-driven alerting: FastAPI services over Kafka with a Postgres database per service, deployed with CI/CD to GHCR. |
+
+---
+
+### 📫 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-reut--yadid-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reut-yadid)
